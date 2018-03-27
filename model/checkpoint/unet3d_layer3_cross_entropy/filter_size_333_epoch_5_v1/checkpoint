@@ -1,0 +1,6 @@
+model_checkpoint_path: "unet3d-2400"
+all_model_checkpoint_paths: "unet3d-2380"
+all_model_checkpoint_paths: "unet3d-2385"
+all_model_checkpoint_paths: "unet3d-2390"
+all_model_checkpoint_paths: "unet3d-2395"
+all_model_checkpoint_paths: "unet3d-2400"
